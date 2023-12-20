@@ -12,6 +12,7 @@ use crate::game::Game;
 use std::io::stdout;
 
 /*
+    TODO: Connect this to GitHub with ssh key!!!
     How to make this better?
     Current interface is pretty poor, hard to decipher the different columns
     Dimensions are very narrow and tall, not close to square
